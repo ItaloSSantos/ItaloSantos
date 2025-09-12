@@ -1,26 +1,9 @@
-👋 Hi, I’m Ebenezer Asabre (@ebenezerasabre), an Embedded Systems Engineer passionate about designing efficient, real-time, and low-power embedded solutions.
+Olá! Eu sou um Engenheiro Eletricista e Eletrônico que atualmente trabalha no desenvolvimento de sistemas de detecção de EPIs com uso de visão computacional, com foco em tornar viável a sua implementação com testes e melhoramentos para cenários reais e mitigações de falsos alarmes. Além desse projeto, também estão presentes os códigos e resultados de outros trabalhos desenvolvidos ao longo da pós graduação, ou de projetos de desenvolvimentos pessoais. 
 
-🔹 Expertise
+🔹 Áreas de desenvolvimento:
+- Códigos e simulações em MATLAB/SIMULINK
+- Desenvolvimentos em C
+- Desenvolvimentos em C++
 
-Embedded Software Development: Bare-metal, RTOS, and Embedded Linux
-Microcontrollers: STM32F4, STM32F7, NRF82
-IoT Systems: MQTT, WebSockets, Raspberry Pi, ESP32
-Database Design: PostgreSQL, MySQL, MongoDB
-Web & Mobile Development: Node.js, JavaScript, HTML/CSS, Android
-🛠 Projects I've Built
-
-IoT Home Automation System: Real-time sensor tracking using ESP32, Raspberry Pi, MQTT, and PostgreSQL
-EMG-Based Wearable for Aquatic Rehabilitation: Low-power embedded system with IMU-triggered EMG sampling and Bluetooth data transmission
-RAG-Based Home Safety System: AI-powered intruder detection using image and text processing
-Embedded Systems Learning Platform: Interactive roadmap for training developers in embedded software
-🚀 Currently Building
-
-Bare-metal and RTOS projects with STM32 and NRF82
-A surveillance platform integrating IoT and AI for real-time security monitoring
-💡 Looking to Collaborate On
-
-Embedded Software Architecture & Real-Time Systems
-IoT and Edge Computing Solutions
-AI-powered Embedded Security Systems
 📫 Contact Me:
-📩 ebenezerasabre@gmail.com | easabre@umass.edu
+📩 italosts@gmail.com | italo.stresser@uel.br
