@@ -1,6 +1,5 @@
-Olá! Eu sou um Engenheiro Eletricista e Eletrônico
-
-🔹 Áreas de desenvolvimento:
+Olá!
+🔹A seguir algumas áreas de desenvolvimento:
 - Códigos e simulações em MATLAB/SIMULINK
 - Desenvolvimentos em C
 - Desenvolvimentos em C++
